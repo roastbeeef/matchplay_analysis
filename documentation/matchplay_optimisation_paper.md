@@ -1,6 +1,6 @@
 # The Sum Is Greater Than The Parts: A Data-Driven Approach to Pair Complementarity in Handicapped Golf Matchplay
 
-**Abstract**
+## Abstract
 This paper explores a purely data-driven methodology for selecting optimal pairings in handicapped golf matchplay. By actively ignoring subjective preconceptions, historical pair performance, and practice round outcomes, the model focuses exclusively on recent hole-level statistics over the last $n$ rounds to mathematically determine pair complementarity. Grounded in the concept that "the sum of a pairing should be greater than the parts," the system leverages archetype classification and maximum weighted matching to construct team rosters that minimise compounding errors and maximise expected matchplay points.
 
 ## 1. Background
